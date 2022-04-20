@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Edvora/static/css/main.7c849f24.css",
-    "main.js": "/Edvora/static/js/main.5eefd088.js",
+    "main.js": "/Edvora/static/js/main.cadd46ba.js",
     "index.html": "/Edvora/index.html",
     "main.7c849f24.css.map": "/Edvora/static/css/main.7c849f24.css.map",
-    "main.5eefd088.js.map": "/Edvora/static/js/main.5eefd088.js.map"
+    "main.cadd46ba.js.map": "/Edvora/static/js/main.cadd46ba.js.map"
   },
   "entrypoints": [
     "static/css/main.7c849f24.css",
-    "static/js/main.5eefd088.js"
+    "static/js/main.cadd46ba.js"
   ]
 }
