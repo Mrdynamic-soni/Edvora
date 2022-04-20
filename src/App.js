@@ -18,7 +18,7 @@ const App =()=>{
     <Navbar/>
     <Header/>
     <Routes>
-        <Route exact path="/" element={<NearestRide/>}/>
+        <Route exact path="/Edvora" element={<NearestRide/>}/>
         <Route exact path="/UpcomingRides" element={<UpcomingRides/>}/>
         <Route exact path="/NearestRide" element={<NearestRide/>}/>
         <Route exact path="/PastRides" element={<PastRides/>}/>
