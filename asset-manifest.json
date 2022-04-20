@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NearestRide/static/css/main.7c849f24.css",
-    "main.js": "/NearestRide/static/js/main.b73949b4.js",
-    "index.html": "/NearestRide/index.html",
-    "main.7c849f24.css.map": "/NearestRide/static/css/main.7c849f24.css.map",
-    "main.b73949b4.js.map": "/NearestRide/static/js/main.b73949b4.js.map"
+    "main.css": "/Edvora/static/css/main.7c849f24.css",
+    "main.js": "/Edvora/static/js/main.5eefd088.js",
+    "index.html": "/Edvora/index.html",
+    "main.7c849f24.css.map": "/Edvora/static/css/main.7c849f24.css.map",
+    "main.5eefd088.js.map": "/Edvora/static/js/main.5eefd088.js.map"
   },
   "entrypoints": [
     "static/css/main.7c849f24.css",
-    "static/js/main.b73949b4.js"
+    "static/js/main.5eefd088.js"
   ]
 }
